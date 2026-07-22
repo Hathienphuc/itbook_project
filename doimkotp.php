@@ -26,11 +26,11 @@ if (isset($_POST['submitotp'])) {
       $mail->isSMTP();
       $mail->Host = 'smtp.gmail.com';
       $mail->SMTPAuth = true;
-      $mail->Username = 'hathienphuc12a8@gmail.com';
-      $mail->Password = 'wzyyfqzbkzpobvyf';
+      $mail->Username = 'abc@gmail.com';
+      $mail->Password = 'abc';
       $mail->SMTPSecure = 'tls';
       $mail->Port = 587;
-      $mail->setFrom('hathienphuc12a8@gmail.com', 'ITBOOK');
+      $mail->setFrom('abc@gmail.com', 'ITBOOK');
       $mail->addAddress($email);
       $mail->isHTML(true);
       $mail->Subject = '=?UTF-8?B?' . base64_encode('Mã OTP đặt lại mật khẩu') . '?=';
