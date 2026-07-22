@@ -56,4 +56,4 @@ Dự án giúp mình thực hành mô hình PHP thuần kết hợp Ajax, quản
 - Tối ưu giao diện và UX với Bootstrap <br/>
 - Kỹ năng triển khai website lên hosting miễn phí <br/>
 🚀 <b>Hướng phát triển tương lai</b> <br/>
-Trong tương lai sẽ tìm hiểu thêm nhiều kỹ thuật khác về công nghệ tìm kiếm bằng giọng nói để có thể nâng cấp độ thông minh, chính xác, ít bị ảnh hưởng từ môi trường nhất cho hệ thống này.Đồng thời phát triển thêm trên nền tảng ứng dụng điện thoại di động và tích hợp thêm hệ thống chatbot kết hợp nhận diện giọng nói, khuôn mặt để hỗ trợ cho khách hàng trong việc mua sắm online trên hệ thống Website ITBOOK.
+Trong tương lai sẽ tìm hiểu thêm nhiều kỹ thuật khác về công nghệ tìm kiếm bằng giọng nói để có thể nâng cấp độ thông minh, chính xác, ít bị ảnh hưởng từ môi trường nhất cho hệ thống này. Đồng thời phát triển thêm trên nền tảng ứng dụng điện thoại di động và tích hợp thêm hệ thống chatbot kết hợp nhận diện giọng nói, khuôn mặt để hỗ trợ cho khách hàng trong việc mua sắm online trên hệ thống Website ITBOOK.
