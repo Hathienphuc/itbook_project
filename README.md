@@ -1,4 +1,4 @@
-<h1 align="center">📘 ITBOOK – Website bán sách có tìm kiếm bằng giọng nói</h1>
+<h1 align="center">ITBOOK – Website bán sách có tìm kiếm bằng giọng nói</h1>
 🎯<b>Giới thiệu</b> <br />
 ITBOOK là website bán sách trực tuyến cho phép người dùng: <br />
 - Xem & tìm kiếm sản phẩm nhanh <br />
@@ -37,7 +37,7 @@ Dự án giúp mình thực hành mô hình PHP thuần kết hợp Ajax, quản
 - Thư viện PHPMailer (Gửi email) <br />
 🔹<b>Triển khai</b> <br/>
 - Hosting miễn phí InfinityFree <br/>
-- Domain demo: http://itbook.42web.io <br/>
+- Domain demo: https://itbook.infinityfreeapp.com <br/>
 📂 <b>Cấu trúc thư mục</b> <br/>
 - /Model        # Xử lý kết nối và truy vấn DB <br/>
 - /Controller   # Điều hướng logic <br/>
