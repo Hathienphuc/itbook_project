@@ -36,8 +36,11 @@ Dự án giúp mình thực hành mô hình PHP thuần kết hợp Ajax, quản
 - Thư viện TTS (tìm kiếm bằng giọng nói) và API Momo <br />
 - Thư viện PHPMailer (Gửi email) <br />
 🔹<b>Triển khai</b> <br/>
+- Local hosting: WampServer <br/>
 - Hosting miễn phí InfinityFree <br/>
 - Domain demo: https://itbook.infinityfreeapp.com <br/>
+📦<b>Quản lý source code</b> <br/>
+- Git & Github <br/>
 📂 <b>Cấu trúc thư mục</b> <br/>
 - /Model        # Xử lý kết nối và truy vấn DB <br/>
 - /Controller   # Điều hướng logic <br/>
